@@ -1,8 +1,13 @@
 Christian.ics
 =============
-A calendar of major Christian holidays, written with the intent of not
-ever needing to be updated.  It uses recurrence rules that should be
-valid between 1900 to 2099.
+A calendar of major Christian holidays in the Gregorian calendar,
+written with the intent of not ever needing to be updated.  It uses
+recurrence rules that should be valid between 1900 to 2099.
+The concept is that they are holidays recognized in all Christian
+traditions, though this probably only applies to Western Christians.
+
+The Easter recurrence rules are based on the dates found in
+[the Wikipedia article describing the computation of the date of Easter](https://en.wikipedia.org/wiki/Computus).
 
 If you find these calendars useful
 ==================================
