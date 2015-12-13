@@ -1,3 +1,9 @@
+Christian.ics
+=============
+A calendar of major Christian holidays, written with the intent of not
+ever needing to be updated.  It uses recurrence rules that should be
+valid between 1900 to 2099.
+
 If you find these calendars useful
 ==================================
 Please consider donating to the [Nicaragua Becas Scholarship program](http://www.amandaythomas.com/becas/).
