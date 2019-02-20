@@ -9,6 +9,11 @@ traditions, though this probably only applies to Western Christians.
 The Easter recurrence rules are based on the dates found in
 [the Wikipedia article describing the computation of the date of Easter](https://en.wikipedia.org/wiki/Computus).
 
+US_Holidays.ics
+===============
+A calendar of major holidays or events commonly celebrated (or at least
+noted) in the United States of America.
+
 If you find these calendars useful
 ==================================
 Please consider donating to the [Nicaragua Becas Scholarship program](http://www.amandaythomas.com/becas/).
